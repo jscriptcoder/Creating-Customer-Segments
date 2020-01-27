@@ -2,7 +2,7 @@
 ## Unsupervised Learning
 ### Project: Creating Customer Segments
 
-See [project report](finding_donors.ipynb)
+See [project report](customer_segments.ipynb)
 
 ### Project Overview
 
